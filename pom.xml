@@ -1,12 +1,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>net.www-eee.util.servlet</groupId>
-  <artifactId>www-eee-util-servlet</artifactId>
+  <groupId>net.www-eee.util.servlets</groupId>
+  <artifactId>www-eee-util-servlets</artifactId>
   <version>1.0.0</version>
   <packaging>jar</packaging>
 
-  <name>WWW-EEE Utilities - Servlet</name>
+  <name>WWW-EEE Utilities - Servlets</name>
   <description>A library of various Java utility Servlets/Filters.</description>
   <licenses>
     <license>
@@ -26,9 +26,9 @@
   </developers>
 
   <scm>
-    <url>https://github.com/www-eee/www-eee-util-servlet.git</url>
-    <connection>scm:git:git://github.com/www-eee/www-eee-util-servlet.git</connection>
-    <developerConnection>scm:git:git@github.com/www-eee/www-eee-util-servlet.git</developerConnection>
+    <url>https://github.com/www-eee/www-eee-util-servlets.git</url>
+    <connection>scm:git:git://github.com/www-eee/www-eee-util-servlets.git</connection>
+    <developerConnection>scm:git:git@github.com/www-eee/www-eee-util-servlets.git</developerConnection>
   </scm>
 
   <properties>

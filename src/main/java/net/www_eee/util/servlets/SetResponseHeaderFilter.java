@@ -5,7 +5,7 @@
  * Software Foundation <http://www.gnu.org/licenses/>, a copy of which you should have received in the file LICENSE.txt.
  */
 
-package net.www_eee.util.servlet;
+package net.www_eee.util.servlets;
 
 import java.io.*;
 import java.util.*;
@@ -29,7 +29,7 @@ import javax.servlet.http.*;
  * <pre>
  * &lt;filter&gt;
  *   &lt;filter-name&gt;ResourceCacheControl&lt;/filter-name&gt;
- *   &lt;filter-class&gt;net.www_eee.util.misc.servlet.SetResponseHeaderFilter&lt;/filter-class&gt;
+ *   &lt;filter-class&gt;net.www_eee.util.servlets.SetResponseHeaderFilter&lt;/filter-class&gt;
  *   &lt;init-param&gt;
  *     &lt;param-name&gt;SetResponseHeaderFilter.ResourceCacheControl.Cache-Control&lt;/param-name&gt;
  *     &lt;param-value&gt;max-age=3600, public&lt;/param-value&gt;
